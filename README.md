@@ -20,4 +20,4 @@ This Code is licensed under MIT License for more information visit http://openso
 
 ## Instructions
 
-For more instructions on how the program operates and what it does please read Manual.pdf
+For more instructions on how the program operates and what it does please read [Manual.pdf](https://github.com/ifostiropoul/cryptomax/blob/master/manual.pdf)
